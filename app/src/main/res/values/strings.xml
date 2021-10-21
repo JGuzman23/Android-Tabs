@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Whatsapp</string>
+    <string name="tab_text_1">Inicio</string>
+    <string name="tab_text_2">Registro</string>
+    <string name="tab_text_3">Contacto</string>
+    <string name="tab_text_4">cancion</string>
+    <string name="action_buscar">buscar</string>
+</resources>
